@@ -96,7 +96,8 @@ end
 
 
 ---
-# Functions/Methods
+# Functions/
+# Methods
 +++
 Javascript
 ```javascript
@@ -116,7 +117,7 @@ sum(1,1)
 
 Take note of code execution flow
 ---
-#Enumerables
+# Enumerables
 +++
 Javascript
 ```javascript
